@@ -1,8 +1,7 @@
-var FishTable = () => (
+
+var FishTable = (pr) => (
   <table>
     <tbody>
-      <FishTableRow />
-      <FishTableRow />
       <FishTableRow />
     </tbody>
   </table>
